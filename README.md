@@ -13,14 +13,7 @@ v.0.0.1
 Скачать папку dist и запустить файл index.html
 
 # Пакеты которые используются в сборках:
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-router": "^5.2.0",
-"react-router-dom": "^5.2.0",
-"react-scripts": "3.4.3"
-"axios": "^0.21.1",
-"classnames": "^2.2.6",
-"node-sass": "^4.14.1",
+"react-dom", "react-router", "react-scripts", "axios", "classnames", "node-sass",
 
-Используемые технологии = React.js, CSS.
+Используемые технологии = React.js, SCSS.
 # В разработке
