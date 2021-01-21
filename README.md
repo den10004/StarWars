@@ -15,4 +15,4 @@ v.0.0.1
 # Пакеты которые используются в сборках:
 "react-dom", "react-router", "react-scripts", "axios", "classnames", "node-sass",
 
-Используемые технологии = React.js, SCSS.
+#Используемые технологии: React.js, SCSS.
