@@ -11,8 +11,9 @@ HTML, CSS, React.js
 react, react-dom
 
 ## Запуск проекта
-## npm start
+### npm start
 Запуск сборки разработчика
 
-## npm build + serve -s build
+### npm build + serve -s build
 Запуск production сборки
+
